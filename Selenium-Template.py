@@ -1,4 +1,4 @@
-FULL_LIST = ["s0","s2","s3","s4","s5"]
+FULL_LIST = ["s0","s2","s3","s4","s5","s6"]
 
 from datetime import datetime
 from selenium import webdriver
