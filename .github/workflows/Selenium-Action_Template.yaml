@@ -1,7 +1,7 @@
 name: KALV2
 on:
   schedule:
-    - cron: "*/28 * * * *"
+    - cron: "*/35 * * * *"
   workflow_dispatch:
 jobs:
   scrape:
